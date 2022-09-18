@@ -8,7 +8,17 @@
     <title>Test Form</title>
   </head>
   <body>
-    <h1>Hello World</h1>
+    <form class="feedback-form js-feedback-form">
+      <label>
+        <b>Name</b>
+        <input class="name" type="text" name="name" placeholder="Enter your name" value="Anon" />
+      </label>
+      <label>
+        <b>Message</b>
+        <textarea class="text" name="message" rows="10"></textarea>
+      </label>
+      <button type="submit">Send feedback</button>
+    </form>
     <script src="./index.js" type="module"></script>
   </body>
 </html>

@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Yurii-Budynkevych/parcel-practice#readme",
   "devDependencies": {
     "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "lodash.throttle": "^4.1.1"
   }
 }

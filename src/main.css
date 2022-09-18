@@ -1,0 +1,7 @@
+.feedback-form{
+display: flex;
+flex-direction: column;
+}
+.text {
+        resize: none;
+}
