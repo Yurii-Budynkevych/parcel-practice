@@ -1,0 +1,24 @@
+{
+  "name": "parcel-practice",
+  "version": "1.0.0",
+  "description": "parcel-practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurii-Budynkevych/parcel-practice.git"
+  },
+  "keywords": [],
+  "author": "Yurii Budynkevych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurii-Budynkevych/parcel-practice/issues"
+  },
+  "homepage": "https://github.com/Yurii-Budynkevych/parcel-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
